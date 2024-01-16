@@ -1,0 +1,28 @@
+{
+  "name": "findallteam",
+  "version": "1.0.0",
+  "description": "FindAll home page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FindAllTeam/FindAllTeam.git"
+  },
+  "keywords": [
+    "FindAll"
+  ],
+  "author": "Terence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FindAllTeam/FindAllTeam/issues"
+  },
+  "homepage": "https://github.com/FindAllTeam/FindAllTeam#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.36"
+  }
+}
