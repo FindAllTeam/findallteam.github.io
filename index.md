@@ -38,5 +38,16 @@ features:
     details: 设计简洁直观，适合各水平的蓝队成员使用
 ---
 
-<div class="home-img-content"> <img class="home-img" src="/preview.jpg" /> </div>
+<div class="home-img-content">
+  <div class="home-img-outer">
+    <img class="home-img" src="/preview1.jpg" />
+  </div>
+  <div class="home-img-outer">
+    <img class="home-img" src="/preview2.jpg" />
+  </div>
+  <div class="home-img-outer">
+    <img class="home-img" src="/preview3.jpg" />
+  </div>
+</div>
+
 

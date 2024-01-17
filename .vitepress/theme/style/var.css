@@ -15,9 +15,17 @@
   align-items: center;
   margin-top: 100px;
   border-top: 2px solid #ddd;
+  flex-direction: column;
+}
+
+.home-img-outer{
+  display: flex;
+  width: 100%;
+  justify-content: center;
 }
 
 .home-img{
-  width: 50%;
-  margin-top: 100px;
+  width: 54%;
+  margin-top: 80px;
+  border-radius: 8px;
 }
