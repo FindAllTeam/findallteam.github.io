@@ -7,10 +7,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/headlogo.svg",
-    // nav: [
-    //   { text: 'Home', link: '/' },
-    //   { text: 'Examples', link: '/markdown-examples' }
-    // ],
+    nav: [
+      // { text: 'Home', link: '/' },
+      { text: '简介', link: '/introduction' }
+    ],
 
     // sidebar: [
     //   {
