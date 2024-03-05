@@ -4,49 +4,49 @@ layout: home
 
 hero:
   name: "FindAll"
-  text: <span style="font-size:30px"> 自动化分析网络安全应急响应工具</span>
-  tagline: 为安全从业者提供极速分析
+  text: <span style="font-size:30px"> Automated analysis of network security emergency response tools.</span>
+  tagline: Providing rapid analysis for security practitioners.
   image:
     src: /logo.svg
     alt: logo
   actions:
     - theme: brand
-      text: 下载使用
+      text: Download
       link: https://github.com/FindAllTeam/FindAll/releases/download/v1.3.0/FindAll-1.3.0.zip
     - theme: alt
-      text: 版本记录
+      text: Releases
       link: https://github.com/FindAllTeam/FindAll/releases
 
 features:
   - icon: 💡
-    title: 操作方便
-    details: 一键安装分析
+    title: Ease of operation
+    details: One-click installation for analysis
   - icon: ⚡️
-    title: 快速识别
-    details: 提供即时的异常检测和响应建议
+    title: Rapid identification
+    details: Providing real-time anomaly detection and response suggestions
   - icon: 🛠️
-    title: 自动化威胁分析
-    details: 威胁情况自动化分析
+    title: Automated threat analysis
+    details: Automated analysis of threat situations
   - icon: 📦
-    title: 综合信息搜集
-    details: 可对系统进行全面的信息搜集
+    title: Comprehensive information gathering
+    details: Capable of comprehensive information gathering on the system
   - icon: 🔑
-    title: 提供API设置
-    details: 可提供额外的API设置入口，方便与服务端联动
+    title: Offer API configuration
+    details: Can provide additional API configuration entry points for easy integration with the server
   - icon: 🎨
-    title: 用户友好界面
-    details: 设计简洁直观，适合各水平的蓝队成员使用
+    title: User-friendly interface
+    details: Designed to be simple and intuitive, suitable for blue team members of all levels to use.
 ---
 
 <div class="home-img-content">
   <div class="home-img-outer">
-    <img class="home-img" src="/preview1.jpg" />
+    <img class="home-img" src="/preview1_en.jpg" />
   </div>
   <div class="home-img-outer">
-    <img class="home-img" src="/preview2.jpg" />
+    <img class="home-img" src="/preview2_en.jpg" />
   </div>
   <div class="home-img-outer">
-    <img class="home-img" src="/preview3.jpg" />
+    <img class="home-img" src="/preview3_en.jpg" />
   </div>
 </div>
 
