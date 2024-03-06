@@ -39,11 +39,12 @@ FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫�
 ### 🛠 安装步骤
 1. **下载安装包一键安装即可**：
 2. **tips**
-   - 远程扫描：Agent位于`C:\Program Files\FindAll\resources\buildResources`，结果位于`C:\\Findall\\result.hb`
-   - 本地扫描：一键扫描即可
+   - 本地扫描：一键扫描即可（Windows推荐此方式），macOS不支持本地扫描。
+   - 远程扫描：Agent客户端已单独提供，单独运行Agent，结果位于`C:\\Findall\\result.hb`，然后再将结果文件上传到FindAll GUI客户端进行分析。
+   
 
 
 ### 💻 系统支持
-- 客户端支持Windows 10及以上版本，还有macOS系统。
-- 服务器支持Windows Server 2008及以上版本。
+- GUI客户端支持Windows 10及以上版本，还有macOS系统。
+- 服务器Agent支持Windows Server 2008及以上版本。
 - 其他系统需自行测试兼容性。

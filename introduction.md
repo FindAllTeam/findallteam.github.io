@@ -48,11 +48,11 @@ Adopts client-server architecture for one-click local scans or remote scanning v
 
 1. **Download and install with one click**：https://github.com/FindAllTeam/FindAll/releases
 2. **Tips**
-   - Remote scanning: Agent is located at `C:\Program Files\FindAll\resources\buildResources`, results are saved at `C:\\Findall\\result.hb`
-   - Local scanning: Just one-click scan
+   - Local scan: Simply click to scan (recommended for Windows), local scanning is not supported on macOS.
+   - Remote scan: An Agent client is provided separately. Run the Agent client independently, and the results will be located at `C:\\Findall\\result.hb`. Then, upload the result file to the FindAll GUI client for analysis.
 
 ### 💻 System Support
 
-- Client supports supports Windows 10 and above, as well as macOS.
-- Server supports Windows Server 2008 and above
+- GUI Client supports supports Windows 10 and above, as well as macOS.
+- Serve Agent supports Windows Server 2008 and above
 - Other systems need to be tested for compatibility
