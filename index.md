@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Download
-      link: https://github.com/FindAllTeam/FindAll/releases/download/v1.3.0/FindAll-1.3.0.zip
+      link: https://github.com/FindAllTeam/FindAll/releases/tag/v1.4.0
     - theme: alt
       text: Releases
       link: https://github.com/FindAllTeam/FindAll/releases
