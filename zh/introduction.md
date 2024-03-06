@@ -41,8 +41,6 @@ FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫�
 2. **tips**
    - 本地扫描：一键扫描即可（Windows推荐此方式），macOS不支持本地扫描。
    - 远程扫描：Agent客户端已单独提供，单独运行Agent，结果位于`C:\\Findall\\result.hb`，然后再将结果文件上传到FindAll GUI客户端进行分析。
-   
-
 
 ### 💻 系统支持
 - GUI客户端支持Windows 10及以上版本，还有macOS系统。
