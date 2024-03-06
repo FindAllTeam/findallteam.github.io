@@ -56,3 +56,4 @@ Adopts client-server architecture for one-click local scans or remote scanning v
 - GUI Client supports supports Windows 10 and above, as well as macOS.
 - Serve Agent supports Windows Server 2008 and above
 - Other systems need to be tested for compatibility
+

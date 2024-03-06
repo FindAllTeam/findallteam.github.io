@@ -48,3 +48,4 @@ FindAll采用客户端-服务器（CS）架构，可以在本地进行一键扫�
 - GUI客户端支持Windows 10及以上版本，还有macOS系统。
 - 服务器Agent支持Windows Server 2008及以上版本。
 - 其他系统需自行测试兼容性。
+
