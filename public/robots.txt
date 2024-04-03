@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://findallteam.github.io/sitemap.xml
